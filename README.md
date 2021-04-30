@@ -1,11 +1,11 @@
 # 计算机科学与编程入门第三次作业
 ## 2010305212 兰嵘培
 ## 1.作业1
-[搜索框](file:///E:/%E6%96%B0%E8%B6%85%E9%9A%BEpython/%E6%90%9C%E7%B4%A2.html)
+[搜索框](https://jsjkxybcrm.github.io/%E6%90%9C%E7%B4%A2.html)
 ## 2.作业2
-[CSS](file:///E:/%E8%B6%85%E9%9A%BEpyson/666/%E7%AC%AC2%E8%8A%82_HTML/%E4%BD%9C%E4%B8%9A%E4%B8%89.html)
+[CSS](https://jsjkxybcrm.github.io/%E4%BD%9C%E4%B8%9A%E4%B8%89.html)
 ## 3.作业3
-[人物关系](https://github.com/jsjkxybcrm/jsjkxybcrm.github.io/blob/main/%E8%A5%BF%E6%B8%B8%E4%BA%BA%E7%89%A9.html)
+[人物关系](https://jsjkxybcrm.github.io/%E8%A5%BF%E6%B8%B8%E4%BA%BA%E7%89%A9.html)
 
 
 
