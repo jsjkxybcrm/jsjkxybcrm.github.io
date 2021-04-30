@@ -5,7 +5,7 @@
 ## 2.作业2
 [CSS](file:///E:/%E8%B6%85%E9%9A%BEpyson/666/%E7%AC%AC2%E8%8A%82_HTML/%E4%BD%9C%E4%B8%9A%E4%B8%89.html)
 ## 3.作业3
-[人物关系](file:///E:/%E6%96%B0%E8%B6%85%E9%9A%BEpython/%E8%A5%BF%E6%B8%B8%E4%BA%BA%E7%89%A9.html)
+[人物关系](https://github.com/jsjkxybcrm/jsjkxybcrm.github.io/blob/main/%E8%A5%BF%E6%B8%B8%E4%BA%BA%E7%89%A9.html)
 
 
 
